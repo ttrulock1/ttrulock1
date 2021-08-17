@@ -1,0 +1,11 @@
+p {font-size: 22px}
+#first {color:red}
+#second {color:royalblue}
+#third {color:green}
+#fourth {font-size: xxx-large;}
+#fifth  {font-size: small;}
+#sixth {text-align: center;}
+#seventh{font-weight: bold;}
+#eighth {font-family: 'Courier New', Courier, monospace;}
+#nineth{color: orange;font-weight: bold; font-size: xxx-large;}
+#styledImage {border:10px solid #021a40}
